@@ -3,9 +3,9 @@
 ## General ROM Hacking Websites
 - **[Romhacking.net](https://www.romhacking.net/)**: A central hub for ROM hacks, patches, and tutorials for various retro games.
 - **[Nexus Mods](https://www.nexusmods.com/)**: A popular platform for modding, primarily for PC games, but also supports some console game hacks.
-- **[RomHack Plaza](https://romhackplaza.org/)**.
-- **[ROMhack.ing](https://romhack.ing/)**.
-- **[Vimm's Lair](https://vimm.net/)**.
+- **[RomHack Plaza](https://romhackplaza.org/)**: A community-driven site for sharing and discovering ROM hacks and modding resources.
+- **[ROMhack.ing](https://romhack.ing/)**: A resource hub offering tutorials, tools, and support for ROM hacking and game modding. Still a WIP.
+- **[Vimm's Lair](https://vimm.net/)**: A site focused on retro gaming resources, including game guides, emulators, romhacks, and information about game preservation.
 
 ## General Patchers
 - **[Mod64+](https://github.com/Admentus64/Patcher64Plus-Tool)**: A tool designed for applying patches to many ROMs, enhancing compatibility and features like Redux.
