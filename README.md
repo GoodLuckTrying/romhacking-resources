@@ -39,15 +39,15 @@
 - **[Zelda Dungeon](https://www.zeldadungeon.net/)**.
 
 ### Metroid
-- **[Metroid Construction](https://metroidconstruction.com/)**.
+- **[Metroid Construction](https://metroidconstruction.com/)**: The ultimate resource for all things Metroid hacking related. Active with even a Hack of the Month contest.
 
 ### Mega Man
-- **[The Mega Man Network](https://themmnetwork.com/)**.
+- **[The Mega Man Network](https://themmnetwork.com/)**: A site dedicated to covering each of the Mega Man series.
 
 ### Sonic
-- **[Sonic Retro](https://sonicretro.org/)**.
+- **[Sonic Retro](https://sonicretro.org/)**: The largest ad-free collaborative online encyclopedia for all things Sonic the Hedgehog.
 - **[Sonic Hacking Contest](https://shc.zone/)**.
 
 ### DOOM
 - **[ZDoom](https://zdoom.org/index)**: A source port for DOOM that allows modders to enhance the game with new features and mechanics, and an active community where fans share custom mods and engines.
-- **[Doom World](https://www.doomworld.com/)**.
+- **[Doom World](https://www.doomworld.com/)**: One of the oldest unofficial news websites dedicated to the Doom games (DoomGate is slightly older). In addition to Doom related news, Doomworld also hosts the weekly /newstuff Chronicles reviews of new WADs uploaded to the idgames archive and a database of the archive with search, user comment, and mirror access capabilities.
