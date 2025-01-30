@@ -41,6 +41,10 @@
 ### Metroid
 - **[Metroid Construction](https://metroidconstruction.com/)**: The ultimate resource for all things Metroid hacking related. Active with even a Hack of the Month contest.
 
+### Castlevania
+- **[Castlevania Modding](https://castlevaniamodding.boards.net/)**.
+- **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
+
 ### Mega Man
 - **[The Mega Man Network](https://themmnetwork.com/)**: A site dedicated to covering each of the Mega Man series.
 
