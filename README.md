@@ -39,10 +39,10 @@
 - **[Zelda Dungeon](https://www.zeldadungeon.net/)**.
 
 ### Metroid
-- **[Metroid Construction](https://metroidconstruction.com/)**: The ultimate resource for all things Metroid hacking related. Active with even a Hack of the Month contest.
+- **[Metroid Construction Forum](https://metroidconstruction.com/)**: The ultimate resource for all things Metroid hacking related. Active with even a Hack of the Month contest.
 
 ### Castlevania
-- **[Castlevania Modding](https://castlevaniamodding.boards.net/)**.
+- **[Castlevania Modding Forum](https://castlevaniamodding.boards.net/)**.
 - **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
 
 ### Mega Man
