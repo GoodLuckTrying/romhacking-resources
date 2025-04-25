@@ -40,7 +40,10 @@
 
 ### Metroid
 - **[Metroid Construction Forum](https://metroidconstruction.com/)**: The ultimate resource for all things Metroid hacking related. Active with even a Hack of the Month contest.
-
+  - **[SMILE RF](https://sadiztyk.metroidconstruction.com/)**: Scyzer's website, with the most up-to-date SMILE RF, a powerful Super Metroid editor.
+  - **[MAGE](https://metroidconstruction.com/resource.php?id=90)**: Download link for MAGE editor for Metroid Fusion and Metroid - Zero Mission.
+  - **[SMART](https://edit-sm.art/download.html)**: Download link for SMART, which is a program that can export and import rooms and all data associated with the rooms from a Super Metroid ROM.
+  - **[SMART Discord Server](https://discord.gg/fTedM9CmhU)**
 ### Castlevania
 - **[Castlevania Modding Forum](https://castlevaniamodding.boards.net/)**.
 - **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
