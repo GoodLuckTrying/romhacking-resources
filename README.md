@@ -32,6 +32,7 @@
 
 ### Final Fantasy
 - **[FFHacktics](https://ffhacktics.com/)**.
+- **[FFHacktics Discord Server](https://discord.com/invite/xpXa8VEV2k)**
 
 ### Fire Emblem
 - **[Serenes Forest](https://serenesforest.net/)**.
@@ -60,8 +61,9 @@
 
 ### The Legend of Zelda
 - **[Zelda Dungeon](https://www.zeldadungeon.net/)**.
-
+- **[Hylian Modding](https://hylianmodding.com/mods)**.
+- **[[Hylian Modding Discord Server](https://discord.com/invite/nGFZ394)**
 ### Streets of Rage, OpenBOR
 - **[Brawlers Avenue](https://brawlersavenue.forumotion.com/)**: The Ultimate Beat Em Up Community.
 - **[Streets of Rage Remake](https://sorr.forumotion.net/)**
-- **[ChronoCrash](https://www.chronocrash.com/forum/)**
+- **[ChronoCrash](https://www.chronocrash.com/forum/)**: Community for the OpenBOR engine and OpenBOR games
