@@ -6,6 +6,7 @@
 - **[RomHack Plaza](https://romhackplaza.org/)**: A community-driven site for sharing and discovering ROM hacks and modding resources.
 - **[ROMhack.ing](https://romhack.ing/)**: A resource hub offering tutorials, tools, and support for ROM hacking and game modding. Still a WIP.
 - **[Vimm's Lair](https://vimm.net/)**: A site focused on retro gaming resources, including game guides, emulators, romhacks, and information about game preservation.
+-  **[NEO Source](https://neo-source.com/index.php)**: Focused on development of FinalBurn Neo, an emulator for arcade/console games. Also categories to discuss MAME.
 
 ## General Patchers
 - **[Mod64+](https://github.com/Admentus64/Patcher64Plus-Tool)**: A tool designed for applying patches to many ROMs, enhancing compatibility and features like Redux.
@@ -19,24 +20,28 @@
 - **[Super Metroid Randomizer](https://randommetroidsolver.pythonanywhere.com/customizer)**.
 - **[OOT Randomizer](https://ootrandomizer.com/)**.
 
-## Franchise-specific Romhacking Sites
+## Franchise/Game-specific Romhacking Sites
 
-### Mario
-- **[Super Mario World Central](https://www.smwcentral.net/)**.
+### Castlevania
+- **[Castlevania Modding Forum](https://castlevaniamodding.boards.net/)**.
+- **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
+
+### DOOM
+- **[ZDoom](https://zdoom.org/index)**: A source port for DOOM that allows modders to enhance the game with new features and mechanics, and an active community where fans share custom mods and engines.
+- **[Doom World](https://www.doomworld.com/)**: One of the oldest unofficial news websites dedicated to the Doom games (DoomGate is slightly older). In addition to Doom related news, Doomworld also hosts the weekly /newstuff Chronicles reviews of new WADs uploaded to the idgames archive and a database of the archive with search, user comment, and mirror access capabilities.
+
+### Final Fantasy
+- **[FFHacktics](https://ffhacktics.com/)**.
 
 ### Fire Emblem
 - **[Serenes Forest](https://serenesforest.net/)**.
 - **[Fire Emblem Universe](https://feuniverse.us/)**.
 
-### Final Fantasy
-- **[FFHacktics](https://ffhacktics.com/)**.
+### Mario
+- **[Super Mario World Central](https://www.smwcentral.net/)**.
 
-### Pokémon
-- **[Project Pokémon](https://projectpokemon.org/)**.
-- **[PokéCommunity](https://www.pokecommunity.com/)**.
-
-### The Legend of Zelda
-- **[Zelda Dungeon](https://www.zeldadungeon.net/)**.
+### Mega Man
+- **[The Mega Man Network](https://themmnetwork.com/)**: A site dedicated to covering each of the Mega Man series.
 
 ### Metroid
 - **[Metroid Construction Forum](https://metroidconstruction.com/)**: The ultimate resource for all things Metroid hacking related. Active with even a Hack of the Month contest.
@@ -44,17 +49,19 @@
   - **[MAGE](https://metroidconstruction.com/resource.php?id=90)**: Download link for MAGE editor for Metroid Fusion and Metroid - Zero Mission.
   - **[SMART](https://edit-sm.art/download.html)**: Download link for SMART, which is a program that can export and import rooms and all data associated with the rooms from a Super Metroid ROM.
   - **[SMART Discord Server](https://discord.gg/fTedM9CmhU)**
-### Castlevania
-- **[Castlevania Modding Forum](https://castlevaniamodding.boards.net/)**.
-- **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
 
-### Mega Man
-- **[The Mega Man Network](https://themmnetwork.com/)**: A site dedicated to covering each of the Mega Man series.
+### Pokémon
+- **[Project Pokémon](https://projectpokemon.org/)**.
+- **[PokéCommunity](https://www.pokecommunity.com/)**.
 
 ### Sonic
 - **[Sonic Retro](https://sonicretro.org/)**: The largest ad-free collaborative online encyclopedia for all things Sonic the Hedgehog.
 - **[Sonic Hacking Contest](https://shc.zone/)**.
 
-### DOOM
-- **[ZDoom](https://zdoom.org/index)**: A source port for DOOM that allows modders to enhance the game with new features and mechanics, and an active community where fans share custom mods and engines.
-- **[Doom World](https://www.doomworld.com/)**: One of the oldest unofficial news websites dedicated to the Doom games (DoomGate is slightly older). In addition to Doom related news, Doomworld also hosts the weekly /newstuff Chronicles reviews of new WADs uploaded to the idgames archive and a database of the archive with search, user comment, and mirror access capabilities.
+### The Legend of Zelda
+- **[Zelda Dungeon](https://www.zeldadungeon.net/)**.
+
+### Streets of Rage, OpenBOR
+- **[Brawlers Avenue](https://brawlersavenue.forumotion.com/)**: The Ultimate Beat Em Up Community.
+- **[Streets of Rage Remake](https://sorr.forumotion.net/)**
+- **[ChronoCrash](https://www.chronocrash.com/forum/)**
