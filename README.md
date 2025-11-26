@@ -6,7 +6,7 @@
 - **[RomHack Plaza](https://romhackplaza.org/)**: A community-driven site for sharing and discovering ROM hacks and modding resources.
 - **[ROMhack.ing](https://romhack.ing/)**: A resource hub offering tutorials, tools, and support for ROM hacking and game modding. Still a WIP.
 - **[Vimm's Lair](https://vimm.net/)**: A site focused on retro gaming resources, including game guides, emulators, romhacks, and information about game preservation.
--  **[NEO Source](https://neo-source.com/index.php)**: Focused on development of FinalBurn Neo, an emulator for arcade/console games. Also categories to discuss MAME.
+- **[NEO Source](https://neo-source.com/index.php)**: Focused on development of FinalBurn Neo, an emulator for arcade/console games. Also categories to discuss MAME.
 
 ## General Patchers
 - **[Mod64+](https://github.com/Admentus64/Patcher64Plus-Tool)**: A tool designed for applying patches to many ROMs, enhancing compatibility and features like Redux.
@@ -24,7 +24,7 @@
 
 ### Castlevania
 - **[Castlevania Modding Forum](https://castlevaniamodding.boards.net/)**.
-- **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
+  - **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
 
 ### DOOM
 - **[ZDoom](https://zdoom.org/index)**: A source port for DOOM that allows modders to enhance the game with new features and mechanics, and an active community where fans share custom mods and engines.
@@ -32,7 +32,7 @@
 
 ### Final Fantasy
 - **[FFHacktics](https://ffhacktics.com/)**.
-- **[FFHacktics Discord Server](https://discord.com/invite/xpXa8VEV2k)**
+  - **[FFHacktics Discord Server](https://discord.com/invite/xpXa8VEV2k)**
 
 ### Fire Emblem
 - **[Serenes Forest](https://serenesforest.net/)**.
@@ -46,9 +46,9 @@
 
 ### Metroid
 - **[Metroid Construction Forum](https://metroidconstruction.com/)**: The ultimate resource for all things Metroid hacking related. Active with even a Hack of the Month contest.
-  - **[SMILE RF](https://sadiztyk.metroidconstruction.com/)**: Scyzer's website, with the most up-to-date SMILE RF, a powerful Super Metroid editor.
-  - **[MAGE](https://metroidconstruction.com/resource.php?id=90)**: Download link for MAGE editor for Metroid Fusion and Metroid - Zero Mission.
-  - **[SMART](https://edit-sm.art/download.html)**: Download link for SMART, which is a program that can export and import rooms and all data associated with the rooms from a Super Metroid ROM.
+- **[SMILE RF](https://sadiztyk.metroidconstruction.com/)**: Scyzer's website, with the most up-to-date SMILE RF, a powerful Super Metroid editor.
+- **[MAGE](https://metroidconstruction.com/resource.php?id=90)**: Download link for MAGE editor for Metroid Fusion and Metroid - Zero Mission.
+- **[SMART](https://edit-sm.art/download.html)**: Download link for SMART, which is a program that can export and import rooms and all data associated with the rooms from a Super Metroid ROM.
   - **[SMART Discord Server](https://discord.gg/fTedM9CmhU)**
 
 ### Pokémon
