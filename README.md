@@ -62,7 +62,7 @@
 ### The Legend of Zelda
 - **[Zelda Dungeon](https://www.zeldadungeon.net/)**.
 - **[Hylian Modding](https://hylianmodding.com/mods)**.
-- **[[Hylian Modding Discord Server](https://discord.com/invite/nGFZ394)**
+  - **[Hylian Modding Discord Server](https://discord.com/invite/nGFZ394)**
 ### Streets of Rage, OpenBOR
 - **[Brawlers Avenue](https://brawlersavenue.forumotion.com/)**: The Ultimate Beat Em Up Community.
 - **[Streets of Rage Remake](https://sorr.forumotion.net/)**
