@@ -6,6 +6,7 @@
 - **[ROMhack.ing](https://romhack.ing/)**: A resource hub offering tutorials, tools, and support for ROM hacking and game modding. Still a WIP.
 - **[Vimm's Lair](https://vimm.net/)**: A site focused on retro gaming resources, including game guides, emulators, romhacks, and information about game preservation.
 - **[NEO Source](https://neo-source.com/index.php)**: Focused on development of FinalBurn Neo, an emulator for arcade/console games. Also categories to discuss MAME.
+- **[MAME Dev](https://forum.mamedev.org/)**: The Official Site of the MAME. MAME is a multi-purpose emulation framework. MAME's purpose is to preserve decades of software history.
 - **[Nexus Mods](https://www.nexusmods.com/)**: A popular platform for modding, primarily for PC games, but also supports some console game hacks.
 - **[Game Banana](https://gamebanana.com/)**: Mods, Tutorials, Sprays, Works In Progress, Sound Mods and more for video games.
 
