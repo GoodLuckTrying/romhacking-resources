@@ -2,11 +2,12 @@
 
 ## General ROM Hacking Websites
 - **[Romhacking.net](https://www.romhacking.net/)**: A central hub for ROM hacks, patches, and tutorials for various retro games.
-- **[Nexus Mods](https://www.nexusmods.com/)**: A popular platform for modding, primarily for PC games, but also supports some console game hacks.
 - **[RomHack Plaza](https://romhackplaza.org/)**: A community-driven site for sharing and discovering ROM hacks and modding resources.
 - **[ROMhack.ing](https://romhack.ing/)**: A resource hub offering tutorials, tools, and support for ROM hacking and game modding. Still a WIP.
 - **[Vimm's Lair](https://vimm.net/)**: A site focused on retro gaming resources, including game guides, emulators, romhacks, and information about game preservation.
 - **[NEO Source](https://neo-source.com/index.php)**: Focused on development of FinalBurn Neo, an emulator for arcade/console games. Also categories to discuss MAME.
+- **[Nexus Mods](https://www.nexusmods.com/)**: A popular platform for modding, primarily for PC games, but also supports some console game hacks.
+- **[Game Banana](https://gamebanana.com/)**: Mods, Tutorials, Sprays, Works In Progress, Sound Mods and more for video games.
 
 ## General Patchers
 - **[Mod64+](https://github.com/Admentus64/Patcher64Plus-Tool)**: A tool designed for applying patches to many ROMs, enhancing compatibility and features like Redux.
@@ -31,15 +32,15 @@
 - **[Doom World](https://www.doomworld.com/)**: One of the oldest unofficial news websites dedicated to the Doom games (DoomGate is slightly older). In addition to Doom related news, Doomworld also hosts the weekly /newstuff Chronicles reviews of new WADs uploaded to the idgames archive and a database of the archive with search, user comment, and mirror access capabilities.
 
 ### Final Fantasy
-- **[FFHacktics](https://ffhacktics.com/)**.
+- **[FFHacktics](https://ffhacktics.com/)**: The Final Fantasy Tactics Hacking Community.
   - **[FFHacktics Discord Server](https://discord.com/invite/xpXa8VEV2k)**
 
 ### Fire Emblem
-- **[Serenes Forest](https://serenesforest.net/)**.
+- **[Serenes Forest](https://serenesforest.net/)**: A Fire Emblem fan site since 1st February 2005. This site was created to provide accurate and reliable information about the Fire Emblem series.
 - **[Fire Emblem Universe](https://feuniverse.us/)**.
 
 ### Mario
-- **[Super Mario World Central](https://www.smwcentral.net/)**.
+- **[Super Mario World Central](https://www.smwcentral.net/)**: SMW Central is a site dedicated to Super Mario World hacking. Our goal is to help the SMW hacking community by organizing what we know about this game's inner workings, as well as providing tools, free graphics, and hosting both demos and completed hacks.
 
 ### Mega Man
 - **[The Mega Man Network](https://themmnetwork.com/)**: A site dedicated to covering each of the Mega Man series.
@@ -52,18 +53,18 @@
   - **[SMART Discord Server](https://discord.gg/fTedM9CmhU)**
 
 ### Pokémon
-- **[Project Pokémon](https://projectpokemon.org/)**.
-- **[PokéCommunity](https://www.pokecommunity.com/)**.
+- **[Project Pokémon](https://projectpokemon.org/)**: The Pokémon community for trading, battling, save editing, ROM hacking, game research, events, and wonder card collection.
+- **[PokéCommunity](https://www.pokecommunity.com/)**: This is a Pokemon forum for Pokemon fans all over the world. Discussions include games, trading card game, strategies, TV series, movies, role play, fan fiction, and trivia..
 
 ### Sonic
 - **[Sonic Retro](https://sonicretro.org/)**: The largest ad-free collaborative online encyclopedia for all things Sonic the Hedgehog.
-- **[Sonic Hacking Contest](https://shc.zone/)**.
+- **[Sonic Hacking Contest](https://shc.zone/)**: The Sonic Hacking Contest is a yearly event where the best Sonic mods and hacks are showcased for fans.
 
 ### The Legend of Zelda
-- **[Zelda Dungeon](https://www.zeldadungeon.net/)**.
-- **[Hylian Modding](https://hylianmodding.com/mods)**.
+- **[Zelda Dungeon](https://www.zeldadungeon.net/)**: Legend of Zelda Walkthroughs, News, Guides, Videos, Music, Media, and More..
+- **[Hylian Modding](https://hylianmodding.com/mods)**: Explore a collection of Zelda 64 mods, along with some powerful tools and simple tutorials for creating your own mods.
   - **[Hylian Modding Discord Server](https://discord.com/invite/nGFZ394)**
 ### Streets of Rage, OpenBOR
 - **[Brawlers Avenue](https://brawlersavenue.forumotion.com/)**: The Ultimate Beat Em Up Community.
-- **[Streets of Rage Remake](https://sorr.forumotion.net/)**
+- **[Streets of Rage Remake](https://sorr.forumotion.net/)**: Discuss the awesome remake of the classic beat 'em up trilogy forum. Show off your own custom mods!
 - **[ChronoCrash](https://www.chronocrash.com/forum/)**: Community for the OpenBOR engine and OpenBOR games
