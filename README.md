@@ -24,7 +24,7 @@
 ## Franchise/Game-specific Romhacking Sites
 
 ### Castlevania
-- **[Castlevania Modding Forum](https://castlevaniamodding.boards.net/)**.
+- **[Castlevania Modding Forum](https://castlevaniamodding.boards.net/)**: Read here for Nintendo DS Castlevania hacks. Come here to chat about all things related to the Castlevania series.
   - **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
 
 ### DOOM
