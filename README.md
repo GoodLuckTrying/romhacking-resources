@@ -58,6 +58,7 @@
 
 ### Sonic
 - **[Sonic Retro](https://sonicretro.org/)**: The largest ad-free collaborative online encyclopedia for all things Sonic the Hedgehog.
+  - **[Sonic Retro Discord Server](https://sonicretro.org/discord/)**
 - **[Sonic Hacking Contest](https://shc.zone/)**: The Sonic Hacking Contest is a yearly event where the best Sonic mods and hacks are showcased for fans.
 
 ### The Legend of Zelda
