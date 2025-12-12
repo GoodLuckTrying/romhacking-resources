@@ -62,6 +62,9 @@
   - **[Sonic Retro Discord Server](https://sonicretro.org/discord/)**
 - **[Sonic Hacking Contest](https://shc.zone/)**: The Sonic Hacking Contest is a yearly event where the best Sonic mods and hacks are showcased for fans.
 
+### Telefang
+- **[Telefang.net](https://telefang.net/)**: Keitai Denjuu Telefang is a series of games where you make friends with sentient monsters called Denjuu. Riffing on Japan's unique Keitai culture
+- **[Telefang Forum](https://forum.telefang.net/index.php): A Forum dedicated to Telefang; contains translation patches and other hacks.
 ### The Legend of Zelda
 - **[Zelda Dungeon](https://www.zeldadungeon.net/)**: Legend of Zelda Walkthroughs, News, Guides, Videos, Music, Media, and More..
 - **[Hylian Modding](https://hylianmodding.com/mods)**: Explore a collection of Zelda 64 mods, along with some powerful tools and simple tutorials for creating your own mods.
