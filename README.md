@@ -54,7 +54,7 @@
   - **[SMART Discord Server](https://discord.gg/fTedM9CmhU)**
 
 ### Phantasy Star
-= **[Phantasy Star Cave](https://www.pscave.com/)**: Long-running fan website dedicated to the Phantasy Star video game series, originally created by Sega. It serves as a fan resource hub with news, guides, and community content focused on Phantasy Star games.
+- **[Phantasy Star Cave](https://www.pscave.com/)**: Long-running fan website dedicated to the Phantasy Star video game series, originally created by Sega. It serves as a fan resource hub with news, guides, and community content focused on Phantasy Star games.
   - **[Phantasy Star Cave Forum](https://pscave.com/forums/index.php)**: Fan forum.
 ### Pokémon
 - **[Project Pokémon](https://projectpokemon.org/)**: The Pokémon community for trading, battling, save editing, ROM hacking, game research, events, and wonder card collection.
@@ -67,7 +67,7 @@
 
 ### Telefang
 - **[Telefang.net](https://telefang.net/)**: Keitai Denjuu Telefang is a series of games where you make friends with sentient monsters called Denjuu. Riffing on Japan's unique Keitai culture
-  - **[Telefang Forum](https://forum.telefang.net/index.php): A Forum dedicated to Telefang; contains translation patches and other hacks.
+  - **[Telefang Forum](https://forum.telefang.net/index.php)**: A Forum dedicated to Telefang; contains translation patches and other hacks.
 ### The Legend of Zelda
 - **[Zelda Dungeon](https://www.zeldadungeon.net/)**: Legend of Zelda Walkthroughs, News, Guides, Videos, Music, Media, and More..
 - **[Hylian Modding](https://hylianmodding.com/mods)**: Explore a collection of Zelda 64 mods, along with some powerful tools and simple tutorials for creating your own mods.
