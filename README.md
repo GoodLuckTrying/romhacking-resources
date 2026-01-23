@@ -41,8 +41,8 @@
 - **[Serenes Forest](https://serenesforest.net/)**: A Fire Emblem fan site since 1st February 2005. This site was created to provide accurate and reliable information about the Fire Emblem series.
 - **[Fire Emblem Universe](https://feuniverse.us/)**.
 
-### Fire Emblem 10
-- **[Gritnea Tower: A FE10 Modding Discord](https://discord.gg/Xa4EbPdt8U): 
+### Fire Emblem: Radiant Dawn (Fire Emblem 10)
+- **[Gritnea Tower: A FE10 Modding Discord](https://discord.gg/Xa4EbPdt8U)** 
 
 ### Mario
 - **[Super Mario World Central](https://www.smwcentral.net/)**: SMW Central is a site dedicated to Super Mario World hacking. Our goal is to help the SMW hacking community by organizing what we know about this game's inner workings, as well as providing tools, free graphics, and hosting both demos and completed hacks.
