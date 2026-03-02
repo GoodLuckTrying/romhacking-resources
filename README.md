@@ -17,6 +17,9 @@
 - **[Thread listing most of the coop/multiplayer romhacks](https://www.romhacking.net/forum/index.php?topic=27495.0)**.
 - **[Modloader64](https://modloader64.com/setup.html)**: A tool for **enabling online multiplayer** and **mods** in games like *The Legend of Zelda: Ocarina of Time/Majora's Mask*, *Mischief Makers Online*.
 - **[The Legend of Zelda: A Link to the Past/Super Metroid Online](https://github.com/alttpo/alttpo)**: Contains AngelScript that enables online/coop play for *The Legend of Zelda: A Link to the Past* and *Super Metroid*.
+- **[Sword of Mana Link Play and Couch Co-Op]**: Game had a built-in but disabled Link Play option recently discovered by romhacker illinx. He made patches to enable it. He also created a Couch Co-Op version using his custom made gba2 spec.
+  - [Link Play Version](https://github.com/illinx/Sword-of-Mana---LinkPlay)
+  - [Couch Co-Up Version](https://github.com/illinx/gba2)
 
 ## Randomizers
 - **[Super Metroid Randomizer](https://randommetroidsolver.pythonanywhere.com/customizer)**.
