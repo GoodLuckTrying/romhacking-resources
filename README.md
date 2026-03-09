@@ -54,6 +54,7 @@
 
 ### Mega Man
 - **[The Mega Man Network](https://themmnetwork.com/)**: A site dedicated to covering each of the Mega Man series.
+- **[Mega Man Romhacking Discord Server](https://discord.com/invite/TeHDfHeP)**.
 
 ### Mega Man X
 - **[Mega Man X Online: Deathmatch](https://gamemaker19.github.io/MMXOnlineDesktop/)**: A Mega Man X Multiplayer Fan Game.
