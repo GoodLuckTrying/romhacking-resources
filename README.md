@@ -23,9 +23,11 @@
 
 ## Randomizers
 - **[Super Metroid Randomizer](https://randommetroidsolver.pythonanywhere.com/customizer)**.
-- **[OOT Randomizer](https://ootrandomizer.com/)**.
+- **[OOT Randomizer](https://ootrandomizer.com/)**: The Legend of Zelda: Ocarina of Time Randomizer.
+- **[MM Randomizer](https://mmrandomizer.com/)**: The Legend of Zelda: Majora's Mask Randomizer.
 - **[Lordmewtwo's FE10 randomizer](https://discord.gg/ctbBk9B7hu)**.
-
+- **[Secret of Mana Randomizer](https://secretofmanaancientcave.blogspot.com/)**.
+  - **[Github](https://github.com/Moppu/SecretOfManaRandomizer)**
 ## Franchise/Game-specific Romhacking Sites
 
 ### Castlevania
