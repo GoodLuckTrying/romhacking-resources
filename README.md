@@ -7,6 +7,9 @@
 - **[Vimm's Lair](https://vimm.net/)**: A site focused on retro gaming resources, including game guides, emulators, romhacks, and information about game preservation.
 - **[NEO Source](https://neo-source.com/index.php)**: Focused on development of FinalBurn Neo, an emulator for arcade/console games. Also categories to discuss MAME.
 - **[MAME Dev](https://forum.mamedev.org/)**: The Official Site of the MAME. MAME is a multi-purpose emulation framework. MAME's purpose is to preserve decades of software history.
+- **[hbmame](https://www.1emulation.com/forums/forum/125-mameui/)**: The forum to discuss MameUI, NewUI and HBMAME.
+  - **[MameUI](https://messui.1emulation.com/)**: MAMEUI is an integrated front-end of MAME.
+  - **[HBMAME](https://hbmame.1emulation.com/)**: HBMAME (HomeBrew MAME) is a derivative of MAME 0.245, and contains various hacks and homebrews.
 - **[Nexus Mods](https://www.nexusmods.com/)**: A popular platform for modding, primarily for PC games, but also supports some console game hacks.
 - **[Game Banana](https://gamebanana.com/)**: Mods, Tutorials, Sprays, Works In Progress, Sound Mods and more for video games.
 
