@@ -87,6 +87,7 @@
   - **[Telefang Forum](https://forum.telefang.net/index.php)**: A Forum dedicated to Telefang; contains translation patches and other hacks.
 ### The Legend of Zelda
 - **[Zelda Dungeon](https://www.zeldadungeon.net/)**: Legend of Zelda Walkthroughs, News, Guides, Videos, Music, Media, and More..
+- **[Zeldix](https://www.zeldix.net/)**: Zelda and MSU-1 romhacking.
 - **[Hylian Modding](https://hylianmodding.com/mods)**: Explore a collection of Zelda 64 mods, along with some powerful tools and simple tutorials for creating your own mods.
   - **[Hylian Modding Discord Server](https://discord.com/invite/nGFZ394)**
 ### Streets of Rage, OpenBOR
