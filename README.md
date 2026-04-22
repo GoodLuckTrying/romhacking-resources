@@ -34,7 +34,7 @@
 ## Franchise/Game-specific Romhacking Sites
 
 ### Banjo Kazooie
-- **[Hackpack: A Banjo Kazooie Modding Discord Server](https://discord.gg/Cm2JuQvewN)
+- **[Hackpack: A Banjo Kazooie Modding Discord Server](https://discord.gg/Cm2JuQvewN)**
 ### Castlevania
 - **[Castlevania Modding Forum](https://castlevaniamodding.boards.net/)**: Read here for Nintendo DS Castlevania hacks. Come here to chat about all things related to the Castlevania series.
   - **[CV Modding Discord Server](https://discord.gg/SEssrmWPyP)**: Active Discord Server with many Castlevania romhackers.
@@ -47,6 +47,8 @@
 - **[FFHacktics](https://ffhacktics.com/)**: The Final Fantasy Tactics Hacking Community.
   - **[FFHacktics Discord Server](https://discord.com/invite/xpXa8VEV2k)**
 - **[FF5 Central](https://ff5central.com/)**: Fan site dedicated to Final Fantasy V, offering the Job Fiesta Event, guides, hacks, translations, and detailed info about the game’s mechanics, story, etc.
+- **[FF6 Hacking](https://www.ff6hacking.com/forums/portal.php)**: Forum dedicated to Final Fantasy 6 modding and ROM hacking.
+-  
 ### Fire Emblem
 - **[Serenes Forest](https://serenesforest.net/)**: A Fire Emblem fan site since 1st February 2005. This site was created to provide accurate and reliable information about the Fire Emblem series.
 - **[Fire Emblem Universe](https://feuniverse.us/)**.
