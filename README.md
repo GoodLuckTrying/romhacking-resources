@@ -48,7 +48,7 @@
   - **[FFHacktics Discord Server](https://discord.com/invite/xpXa8VEV2k)**
 - **[FF5 Central](https://ff5central.com/)**: Fan site dedicated to Final Fantasy V, offering the Job Fiesta Event, guides, hacks, translations, and detailed info about the game’s mechanics, story, etc.
 - **[FF6 Hacking](https://www.ff6hacking.com/forums/portal.php)**: Forum dedicated to Final Fantasy 6 modding and ROM hacking.
--  
+ 
 ### Fire Emblem
 - **[Serenes Forest](https://serenesforest.net/)**: A Fire Emblem fan site since 1st February 2005. This site was created to provide accurate and reliable information about the Fire Emblem series.
 - **[Fire Emblem Universe](https://feuniverse.us/)**.
@@ -85,6 +85,13 @@
 - **[Sonic Retro](https://sonicretro.org/)**: The largest ad-free collaborative online encyclopedia for all things Sonic the Hedgehog.
   - **[Sonic Retro Discord Server](https://sonicretro.org/discord/)**
 - **[Sonic Hacking Contest](https://shc.zone/)**: The Sonic Hacking Contest is a yearly event where the best Sonic mods and hacks are showcased for fans.
+
+### Star Fox
+- **[Star Fox Exploratorium Discord Server](https://discord.gg/U4CtzqDGa5)**: Discord Server dedicated to Star Fox Hacking.
+### Star Fox 64
+- **[Star Fox 64 Decomp](https://github.com/sonicdcer/sf64)**: This is a WIP matching decompilation of Starfox 64. The purpose of the project is to recreate a source code base for the game from scratch, using information found inside the game along with static and/or dynamic analysis.
+  - [Star Fox 64 Decomp Discord Server](https://discord.gg/tuwdmuTTqc)
+- **[Star Fox 64 Recomp](https://github.com/sonicdcer/Starfox64Recomp)**: A project that uses [N64: Recompiled](https://github.com/Mr-Wiseguy/N64Recomp) to statically recompile Starfox 64 into a native port with many new features, enhancements, and extensive mod support.
 
 ### Telefang
 - **[Telefang.net](https://telefang.net/)**: Keitai Denjuu Telefang is a series of games where you make friends with sentient monsters called Denjuu. Riffing on Japan's unique Keitai culture
