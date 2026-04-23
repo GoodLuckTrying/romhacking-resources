@@ -5,6 +5,8 @@
 - **[RomHack Plaza](https://romhackplaza.org/)**: A Romhack community where you can share your creations with the world.
 - **[Romhacking.net](https://www.romhacking.net/)**: ROMhacking.net is home to classic video game modifications, fan translations, console homebrew, utilities, and learning resources.
 - **[Vimm's Lair](https://vimm.net/)**: A site focused on retro gaming resources, including game guides, emulators, romhacks, and information about game preservation.
+- **[RetroGameTalk](https://retrogametalk.com/)**: Community for retro gaming enthusiasts. Discover in-depth articles, reviews, and discussions about classic video games across all platforms.
+  - [RetroGameTalk's Forum](https://retrogametalk.com/forums/)
 - **[NEO Source](https://neo-source.com/index.php)**: Focused on development of FinalBurn Neo, an emulator for arcade/console games. Also categories to discuss MAME.
 - **[MAME Dev](https://forum.mamedev.org/)**: The Official Site of the MAME. MAME is a multi-purpose emulation framework. MAME's purpose is to preserve decades of software history.
 - **[hbmame](https://www.1emulation.com/forums/forum/125-mameui/)**: The forum to discuss MameUI, NewUI and HBMAME.
