@@ -14,6 +14,7 @@
   - **[HBMAME](https://hbmame.1emulation.com/)**: HBMAME (HomeBrew MAME) is a derivative of MAME 0.245, and contains various hacks and homebrews.
 - **[Nexus Mods](https://www.nexusmods.com/)**: A popular platform for modding, primarily for PC games, but also supports some console game hacks.
 - **[Game Banana](https://gamebanana.com/)**: Mods, Tutorials, Sprays, Works In Progress, Sound Mods and more for video games.
+- **[Wii Homebrew](https://forum.wii-homebrew.com)**: Wii, Wii U, DS, DSi, 3DS Modding Forum.
 
 ## General Patchers
 - **[Mod64+](https://github.com/Admentus64/Patcher64Plus-Tool)**: A tool designed for applying patches to many ROMs, enhancing compatibility and features like Redux.
