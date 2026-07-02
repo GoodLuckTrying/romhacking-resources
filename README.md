@@ -15,6 +15,7 @@
 - **[Nexus Mods](https://www.nexusmods.com/)**: A popular platform for modding, primarily for PC games, but also supports some console game hacks.
 - **[Game Banana](https://gamebanana.com/)**: Mods, Tutorials, Sprays, Works In Progress, Sound Mods and more for video games.
 - **[Wii Homebrew](https://forum.wii-homebrew.com)**: Wii, Wii U, DS, DSi, 3DS Modding Forum.
+- **[EPForums](https://www.epforums.org/)**: Long-running retro gaming community (originally EmuParadise Forums) focused on game preservation, emulation, general gaming, and console modding.
 
 ## General Patchers
 - **[Mod64+](https://github.com/Admentus64/Patcher64Plus-Tool)**: A tool designed for applying patches to many ROMs, enhancing compatibility and features like Redux.
@@ -70,6 +71,9 @@
 - **[Mega Man X Online: Deathmatch](https://gamemaker19.github.io/MMXOnlineDesktop/)**: A Mega Man X Multiplayer Fan Game.
   - **[Mega Man X Online: Deathmatch Github](https://github.com/gamemaker19/MMX-Online-Deathmatch)**
 
+### MSX
+- **[MSX Resource Center Forums](https://www.msx.org/forum)**: Forums for the MSX computer community, covering development, hardware, software, emulation, graphics, and music.
+
 ### Metroid
 - **[Metroid Construction Forum](https://metroidconstruction.com/)**: The ultimate resource for all things Metroid hacking related. Active with even a Hack of the Month contest.
 - **[SMILE RF](https://sadiztyk.metroidconstruction.com/)**: Scyzer's website, with the most up-to-date SMILE RF, a powerful Super Metroid editor.
@@ -80,6 +84,10 @@
 ### Phantasy Star
 - **[Phantasy Star Cave](https://www.pscave.com/)**: Long-running fan website dedicated to the Phantasy Star video game series, originally created by Sega. It serves as a fan resource hub with news, guides, and community content focused on Phantasy Star games.
   - **[Phantasy Star Cave Forum](https://pscave.com/forums/index.php)**: Fan forum.
+
+### Sega Master System
+- **[SMS Power](https://www.smspower.org/)**: Community dedicated to Sega Master System, Game Gear, SG-1000, and related systems, with forums, hacks, translations, homebrew, and development resources.
+
 ### Pokémon
 - **[Project Pokémon](https://projectpokemon.org/)**: The Pokémon community for trading, battling, save editing, ROM hacking, game research, events, and wonder card collection.
 - **[PokéCommunity](https://www.pokecommunity.com/)**: This is a Pokemon forum for Pokemon fans all over the world. Discussions include games, trading card game, strategies, TV series, movies, role play, fan fiction, and trivia..
