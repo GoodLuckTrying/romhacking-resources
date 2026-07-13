@@ -18,7 +18,7 @@
 - **[EPForums](https://www.epforums.org/)**: Long-running retro gaming community (originally EmuParadise Forums) focused on game preservation, emulation, general gaming, and console modding.
 - **[MSX Resource Center Forums](https://www.msx.org/forum)**: Forums for the MSX computer community, covering development, hardware, software, emulation, graphics, and music.
 - **[SMS Power](https://www.smspower.org/)**: Community dedicated to Sega Master System, Game Gear, SG-1000, and related systems, with forums, hacks, translations, homebrew, and development resources.
-
+- **[Dreamcast Talk](https://www.dreamcast-talk.com)**: Community forum dedicated to the Sega Dreamcast, focused on news, homebrew, modding, online play, technical support, and preservation
 ## General Patchers
 - **[Mod64+](https://github.com/Admentus64/Patcher64Plus-Tool)**: A tool designed for applying patches to many ROMs, enhancing compatibility and features like Redux.
 
