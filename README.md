@@ -108,6 +108,7 @@
 - **[Zeldix](https://www.zeldix.net/)**: Zelda and MSU-1 romhacking.
 - **[Hylian Modding](https://hylianmodding.com/mods)**: Explore a collection of Zelda 64 mods, along with some powerful tools and simple tutorials for creating your own mods.
   - **[Hylian Modding Discord Server](https://discord.com/invite/nGFZ394)**
+- **[Zelda Hacks](https://www.zeldahacking.net/)**: New site. The Oracle of Ages & Seasons ROM Hacking Hub
 ### Streets of Rage, OpenBOR
 - **[Brawlers Avenue](https://brawlersavenue.forumotion.com/)**: The Ultimate Beat Em Up Community.
 - **[Streets of Rage Remake](https://sorr.forumotion.net/)**: Discuss the awesome remake of the classic beat 'em up trilogy forum. Show off your own custom mods!
