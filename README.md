@@ -64,6 +64,7 @@
 
 ### Ghosts'n Goblins
 - **[Ghosts'n Goblins Hacking Discord Server](https://discord.gg/t6A5z9YnXv): New Server for Ghosts'n Goblins Hacking.
+- **[Funghi's Discord Server](https://discord.gg/7E4rGEY4cd): Server of the creator of the Super Ghouls 'n Ghosts Game Editor
 ### Mario
 - **[Super Mario World Central](https://www.smwcentral.net/)**: SMW Central is a site dedicated to Super Mario World hacking. Our goal is to help the SMW hacking community by organizing what we know about this game's inner workings, as well as providing tools, free graphics, and hosting both demos and completed hacks.
 
